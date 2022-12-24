@@ -1,6 +1,6 @@
 ### Some thoughts
 ```
-I'm still new to the entire SPRING / SPRING boot framework along with stuff like maven.
+I'm still new to the entire SPRING / SPRING boot framework along with stuff like maven and postgresSQL
 Project meant more for me to start understanding how it works and core functionality. 
 ```
 ### Basic functionality
